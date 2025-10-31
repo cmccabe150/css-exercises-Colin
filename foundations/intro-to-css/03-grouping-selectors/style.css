@@ -1,1 +1,28 @@
-/* Add CSS Styling */
+/* Add CSS Styling
+.bt{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif 
+}
+
+.bt.one{
+    background-color: black;
+    color: white;
+}
+
+.bt.two{
+    background-color: yellow;
+} */
+
+.me,
+.three {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+.me{
+    background-color: black;
+    color: white;
+}
+
+.three{
+    background-color: yellow;
+}
